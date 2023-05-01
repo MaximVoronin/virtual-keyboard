@@ -1,0 +1,19 @@
+.key-board {
+    border-radius: 5px;
+    width: 40px;
+    height:40px;
+    border: 1px solid gray;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content:center;
+    cursor: pointer;
+    float: left;
+}
+.transfer {
+    clear: both;
+}
+.key-push {
+    background-color: brown;
+}
